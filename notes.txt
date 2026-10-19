@@ -1,3 +1,4 @@
 my fiest note
 This is my first using git commit to my git bashday3 practice line 2
 day3 practice line 2
+day3 practice line 3
