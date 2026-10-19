@@ -1,1 +1,2 @@
 my fiest note
+This is my first using git commit to my git bash
