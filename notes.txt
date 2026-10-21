@@ -9,3 +9,4 @@ day4 practicce
 三区模型：工作区/暂存区/本地仓库
 git add 有两个作用：首次跟踪与暂存改动
 git commit 生成快照，哈希唯一标识一次提交
+ git status的三种状态显示
