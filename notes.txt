@@ -10,3 +10,5 @@ day4 practicce
 git add 有两个作用：首次跟踪与暂存改动
 git commit 生成快照，哈希唯一标识一次提交
  git status的三种状态显示
+git diff 比较工作区与暂存区
+git diff --staged比较暂存区与仓库
