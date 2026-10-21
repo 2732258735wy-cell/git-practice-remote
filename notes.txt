@@ -17,3 +17,4 @@ git restore --staged把改动退回工作区
 git commit --amend 重做上一次提交，哈希会变
 commit -a只对已跟踪文件生效，新文件必须先add
  分支是指向提交的指针，创建时不复制文件
+git log --oneline是查看提交记录和附带的注释，如果想要看具体提交了多少行，可以加一个 | wc -l 
