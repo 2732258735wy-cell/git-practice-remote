@@ -13,3 +13,4 @@ git commit 生成快照，哈希唯一标识一次提交
 git diff 比较工作区与暂存区
 git diff --staged比较暂存区与仓库
 git restore 丢弃工作区改动，不可恢复
+git restore --staged把改动退回工作区
