@@ -19,3 +19,4 @@ commit -a只对已跟踪文件生效，新文件必须先add
  分支是指向提交的指针，创建时不复制文件
 git log --oneline是查看提交记录和附带的注释，如果想要看具体提交了多少行，可以加一个 | wc -l 
 sed -i's/要更改的内容/更改后的内容/' 
+feature :login page draft
