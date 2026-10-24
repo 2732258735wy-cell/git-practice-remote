@@ -1,4 +1,5 @@
 master 修改了第一行
+conflict-branch 修改了第一行
 This is my first using git commit to my git bashday3 practice line 2
 day3 practice line 2
 day3 practice line 3
